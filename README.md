@@ -1,3 +1,5 @@
+I didn't write this tool, someone shared it and asked me to pop it on the wiki. I thought that uploading here was best for that.
+
 # `iff_apply.py` — GA100 SW-IFF record applier (admin guide)
 
 | | |
